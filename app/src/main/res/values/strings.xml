@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Nubank Clone</string>
     <string name="txt_nome_usuario">Olá, Samuel</string>
+    <string name="txt_saldo_conta">Conta \n\n R$ 813,95</string>
 </resources>
