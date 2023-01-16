@@ -3,4 +3,11 @@
     <string name="txt_nome_usuario">Olá, Samuel</string>
     <string name="txt_saldo_conta">Conta \n\n R$ 813,95</string>
     <string name="txt_cartoes">Meus Cartões</string>
+    <string name="txt_cartao_credito">Cartão de crédito</string>
+    <string name="txt_fatura_atual">Fatura atual</string>
+    <string name="txt_dinheiro_fatura">R$ 1.299,18</string>
+    <string name="txt_limite_disponivel">Limite disponível de R$ 13.881,00</string>
+    <string name="txt_parcelar_compras">Parcelar Compras</string>
+
+
 </resources>
